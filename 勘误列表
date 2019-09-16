@@ -1,0 +1,4 @@
+错误1）Page 44第3短代码 有2个package语句，请忽略任意一行，只需使用一次包
+错误2）Page 49 最后一行代码 U System.out.printlnt("uid:"+u.getUid()); 请忽略前面的U.
+        本案例要求表中必须有名为rose,密码为abcdef的数据。否则会报异常。
+       ---彭之军
